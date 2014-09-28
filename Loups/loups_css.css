@@ -1,0 +1,65 @@
+#container{
+	background-color: #EEEEEE;
+	width: 940px;
+	padding: 10px 10px 10px 10px;
+}
+#banner {
+	padding: 16px 0 0 9px;
+	display: block;
+	background-color: #DDDDDD;
+	width: 869px;
+	height: 60px;
+	font-size: 41px;
+	border-radius: 20px;
+	margin: 1px 10px 25px 0px;
+}
+#links {
+	margin: 0 0 0 3px;
+	display: inline-block;
+	background-color: #DDDDDD;
+	width: 194px;
+	height: 342px;
+	padding: 16px 15px 15px 10px; 
+	border-radius: 25px;
+	vertical-align: top;
+}
+#links ul{
+	padding-left: 9px;
+	padding-top: 5px;
+	vertical-align: top;
+	line-height: 20px
+}
+#main {
+
+	width: 600px;
+	height: 492px;
+	display: inline-block;
+	background-color: #AAAAAA;
+	font-size: 15px;
+	border-radius: 25px;
+	padding: 15px 15px 0px 15px;
+	vertical-align: top;
+	margin: 0 0 0 23px;
+
+}
+
+#essays{
+	text-indent: 10px;
+	line-height: 27px;
+}
+
+#special{
+	font-size: 32px;
+	padding-bottom: 23px;
+	padding-left: 0px;
+	padding-top: 26px;
+}
+#end{
+	margin-top: 21px;
+	display: block;
+	background-color: #DDDDDD;
+	width:878px;
+	height: 54px;
+	padding-top: 21px;
+	border-radius: 25px;
+}
